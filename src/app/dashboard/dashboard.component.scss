@@ -39,7 +39,7 @@ $background-color: #f4f4f4;
           }
 
           &.active {
-            background-color: color.scale($color, $lightness: -20.3187250996%)
+            background-color: $primary-color;
           }
         }
       }
